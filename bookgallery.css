@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Anton&family=Noto+Sans:ital@1&family=Oswald:wght@300&family=Peralta&family=Silkscreen&display=swap');
+#a1{
+    color: orange;
+    text-align: center;
+    font-family: 'Peralta', cursive;
+    font-size: larger;
+}
+h1{
+    color: rgb(11, 131, 77);
+    font-size: smaller;
+}
+h2{
+    color: rgb(11, 131, 77);
+    font-size: smaller;
+}
+div{
+    background-color: white;
+    width: 20%;
+    height: 500px;
+    border: white 10px solid;
+    float: left;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+img{
+    width: 189px;
+    height: 267px;
+}
